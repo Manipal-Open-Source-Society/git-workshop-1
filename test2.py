@@ -1,4 +1,4 @@
 print("HELL O2")
 
 
-test = 36
+test = 24
